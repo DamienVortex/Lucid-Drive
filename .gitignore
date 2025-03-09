@@ -30,11 +30,9 @@
 *.exe
 *.out
 *.app
-<<<<<<< HEAD
-LucidDrive/Saved/Config/CrashReportClient/UECC-Windows-BF63F8D941759870744EB89C9550FEB5/CrashReportClient.ini
-LucidDrive/Saved/Logs/LucidDrive-backup-2025.03.09-20.14.08.log
-=======
 LucidDrive/Saved/Logs/LucidDrive.log
 LucidDrive/Saved/Logs/LucidDrive-backup-2025.03.09-20.14.08.log
 LucidDrive/Saved/Config/CrashReportClient/UECC-Windows-BF63F8D941759870744EB89C9550FEB5/CrashReportClient.ini
->>>>>>> Damien
+/LucidDrive/Saved
+/LucidDrive/Saved
+/LucidDrive/Intermediate
